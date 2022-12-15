@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852226509147",
+    "project_id": "genotechies-app-cf9f0",
+    "storage_bucket": "genotechies-app-cf9f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852226509147:android:6c09cf79f6c3d5ec38327e",
+        "android_client_info": {
+          "package_name": "com.tharuke_rajapaksha.genotechies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852226509147-tib2mh2iu143ni0q9886csib0hk90iie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tharuke_rajapaksha.genotechies_app",
+            "certificate_hash": "f1ae4a70faba692fb7857591e87f44eccd19df6c"
+          }
+        },
+        {
+          "client_id": "852226509147-jdusimf3c2tjit0ua2mugssftg711afb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8haem6A0TJ5tGvLRberJFHttG2wUnhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852226509147-jdusimf3c2tjit0ua2mugssftg711afb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
